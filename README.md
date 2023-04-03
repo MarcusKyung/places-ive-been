@@ -30,6 +30,23 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 * _Any known issues_
 * _should go here_
 
+## Known Bugs
+```Describe: Places()```
+
+```Test: "It creates a new object when called"```
+```Code:```
+```let myPlaces = new Places()```
+```Places();```
+```Expected Output: {} ```
+
+```Describe: City()```
+
+```Test: "It creates a new city object with properties: name, country, language, currency"```
+```Code:```
+```let Portland = new Places(name, country, language, currency)```
+```Places(name, country, language, currency);```
+```Expected Output: Portland: {name, country, language, currency} ```
+
 ## License
 
 _For questions, comments, or concerns please reach out at Kyungmj@gmail.com_
