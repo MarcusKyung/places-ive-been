@@ -14,7 +14,7 @@ function City(name, country, language, currency){
   this.language = language;
   this.currency = currency;
 }
-
+//Examples:
 // let myPlaces = new Places();
 // let SanDiego = new City("San Diego", "USA", "ENG", "USD",);
 // let Tokyo = new City("Tokyo", "Japan", "Japanese", "YEN");
